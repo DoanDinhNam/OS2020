@@ -1,4 +1,4 @@
 # OS2020
 
-Daniel Hagimont
-hagimont@enseeiht.fr
+Đoàn Đình Nam Ba9-045 ICT
+namdd.ba9045@st.usth.edu.vn
